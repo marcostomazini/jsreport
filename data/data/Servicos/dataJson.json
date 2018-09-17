@@ -1,0 +1,55 @@
+{
+    "number": "123",
+    "seller": {
+        "name": "Next Step Webs, Inc.",
+        "road": "12345 Sunny Road",
+        "country": "Sunnyville, TX 12345"
+    },
+    "buyer": {
+        "name": "Acme Corp.",
+        "road": "16 Johnson Road",
+        "country": "Paris, France 8060"
+    },
+    "items": [
+        {
+            "name": "Website design",
+            "price": 300
+        }
+    ],
+    "servicosPorData": [
+        {
+            "dataHora": "1537044824738",
+            "servicos": [
+                {
+                    "tipoPagamento": "Dinheiro",
+                    "valorRecebido": "5.00"
+                },
+                {
+                    "tipoPagamento": "Debito",
+                    "valorRecebido": "15.00"
+                },
+                {
+                    "tipoPagamento": "Dinheiro",
+                    "valorRecebido": "25.00"
+                }
+            ]
+        },
+        {
+            "dataHora": "1537044824738",
+            "servicos": [
+                {
+                    "tipoPagamento": "Credito",
+                    "valorRecebido": "15.00"
+                },
+                {
+                    "tipoPagamento": "Credito",
+                    "valorRecebido": "25.00"
+                },
+                {
+                    "tipoPagamento": "Dinheiro",
+                    "valorRecebido": "10.00"
+                }
+            ]
+        }
+    ]
+}

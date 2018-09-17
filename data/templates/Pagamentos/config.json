@@ -1,0 +1,14 @@
+{
+    "shortid": "ryH3lqpuQ",
+    "name": "Pagamentos",
+    "recipe": "chrome-pdf",
+    "engine": "handlebars",
+    "chrome": {
+        "printBackground": true
+    },
+    "modificationDate": {
+        "$$date": 1537216687854
+    },
+    "_id": "6282hv9n0ERC5LJc",
+    "$entitySet": "templates"
+}

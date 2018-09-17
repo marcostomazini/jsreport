@@ -1,0 +1,17 @@
+{
+    "shortid": "rJnMEdpOQ",
+    "name": "Servicos",
+    "recipe": "chrome-pdf",
+    "engine": "handlebars",
+    "chrome": {
+        "printBackground": true
+    },
+    "modificationDate": {
+        "$$date": 1537216556513
+    },
+    "_id": "FovMQvH8QYqAboiY",
+    "$entitySet": "templates",
+    "data": {
+        "shortid": "Sykw7Ypum"
+    }
+}
